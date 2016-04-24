@@ -1,0 +1,7 @@
+set nonumber
+set relativenumber
+
+set cursorline cursorcolumn
+
+color wellsokai
+
