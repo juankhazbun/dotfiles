@@ -1,0 +1,10 @@
+set nonumber
+set relativenumber
+
+set cursorline cursorcolumn
+
+colo wellsokai
+
+let g:jsx_ext_required = 0
+
+set mouse=a
